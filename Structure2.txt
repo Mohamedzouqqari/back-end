@@ -1,0 +1,32 @@
+Structure 
+
+
+/votre-projet
+├── controllers
+│   ├── auth.controller.js
+│   ├── post.controller.js
+│   ├── admin.controller.js
+├── middlewares
+│   ├── authMiddleware.js
+│   ├── adminMiddleware.js
+├── models
+│   ├── user.model.js
+│   ├── post.model.js
+├── routes
+│   ├── auth.routes.js
+│   ├── post.routes.js
+│   ├── admin.routes.js
+├── config
+│   └── db.config.js
+├── tests
+│   ├── auth.test.js
+│   ├── post.test.js
+│   ├── admin.test.js
+├── .env
+├── app.js
+├── server.js
+├── package.json
+└── package-lock.json
+
+
+
